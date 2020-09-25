@@ -2,8 +2,6 @@ gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
 jsonify==0.5
-jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 scikit-image==0.16.2
 scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
 scipy==1.4.1
